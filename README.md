@@ -29,7 +29,7 @@ My unique combination of cybersecurity expertise, infrastructure management expe
 
 ---
 
-### Trip Feedback From World
+### World Trip Feedback Aggregator
 **Description**: An intelligent travel intelligence agent that scrapes and analyzes real traveler feedback from TripAdvisor, Reddit, and travel blogs to provide actionable insights.
 
 **Use Case**: Travel agencies can analyze destination performance by gathering authentic traveler experiences, identifying pain points, and discovering hidden gems before planning client trips.
