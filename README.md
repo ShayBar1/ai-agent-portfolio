@@ -108,6 +108,6 @@ Ready to transform your business with custom AI solutions? I specialize in creat
 - **Content generation workflows**
 - **Secure AI infrastructure implementation**
 
-[📧 Contact me](mailto:shay@systematics.co.il) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/shaybar)
+[📧 Contact me](mailto:shaybar@itteam.co.il) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/shaybar)
 
 *MindStudio L3 Certified | CISM | 28+ Years IT Experience*
